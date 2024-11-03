@@ -1,5 +1,10 @@
 # Zakres Zagadnień dla Full Stack Developera RoR + Vue.js
 
+napisz mi plik md wszystkim co muszę wiedzieć na stanowisku Full Stack Developer Ruby on Rails + Vue.js, ale tylko konkretnie o
+frontend:
+vuejs
+, zrób sekcjei w każdej daj w punktach wszystko co muszę ogólnie wiedzieć, niech każdy punkt ma taki checkbox gdzie będę mógł zaznaczać kiedy już umiem
+
 ## Backend (Ruby on Rails)
 1. **[Fundamenty Ruby](./backend/fundamenty_ruby.md)**
 2. **[Rails](./backend/rails.md)**
